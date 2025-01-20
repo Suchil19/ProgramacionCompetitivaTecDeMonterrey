@@ -76,6 +76,14 @@ A continuación haremos un repaso por los conceptos que usaremos a lo largo del 
 
 Las variables en Python son fundamentales para almacenar y manipular datos vamos a ver un ejemplo.
 
+```
+a = 10
+b = 9
+suma = a + b
+print(suma)
+
+```
+
 ![Variable](img/variable.png) 
 
 ## "Correr el código"
