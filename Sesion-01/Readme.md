@@ -76,7 +76,7 @@ A continuación haremos un repaso por los conceptos que usaremos a lo largo del 
 
 Las variables en Python son fundamentales para almacenar y manipular datos vamos a ver un ejemplo.
 
-```
+```Python
 a = 10
 b = 9
 suma = a + b
@@ -104,6 +104,10 @@ print(suma)
 La función print() en Python se utiliza para mostrar información en la pantalla. Aquí tienes algunos aspectos clave sobre su uso.
 
 ![Print](img/print.png) 
+
+```Python 
+print("Hola Mundo")
+```
 
 ## Comentarios
 
