@@ -117,6 +117,9 @@ En Python, los comentarios son útiles para explicar el código y hacerlo más l
 
 ![Print](img/comentario.png) 
 
+```Python
+#Ejemplo de Comentario
+```
 * Comentarios de múltiples líneas: Utiliza tres comillas dobles (""") al inicio y al final del bloque de texto. Esta opción es bastante útil si deseas hacer un comentario extenso de tu código.
 
 ![Print](img/comentario-multiple.png) 
@@ -127,6 +130,10 @@ En Python, los comentarios son útiles para explicar el código y hacerlo más l
 Para trabajar con texto simple en Python, puedes usar cadenas de texto (strings). Si soló quieres mostrar un mensaje puedes escribirlo dentro de las comillas dobles como se muestra a continuación "Hola"
 ![Texto simple](img/texto-simple.png) 
 
+```Python
+print("Esto es texto")
+```
+
 # Buenas prácticas
 
 Las buenas prácticas en programación son un conjunto de técnicas, principios y metodologías que los desarrolladores siguen para escribir código más legible, mantenible y eficiente. Aquí te dejo algunas de las más importantes.
@@ -135,5 +142,6 @@ Las buenas prácticas en programación son un conjunto de técnicas, principios 
 
 
 ## 📝 Organización de la clase
-
+- [Ejemplos](/Sesion-01/ejercicios/ejercicios-basicos.py)
 - [Práctica](practica/README.md)
+- [Sesión 02](/Sesion-02/Readme.md)
