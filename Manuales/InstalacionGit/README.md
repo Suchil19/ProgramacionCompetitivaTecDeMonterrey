@@ -44,9 +44,13 @@
 
 - Ejecutar el Instalador y seguir las instrucciones.
 
+- Una vez instalado, abre una terminal y verifica la instalación escribiendo:
+
  ```Python
 git --version
 
 ```
+
+
 
 

@@ -82,7 +82,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 ## Instrucciones de Instalación y Configuración
 
-- [Manual de configuración Visual Studio Code](practica/README.md)
+- [Manual de configuración Visual Studio Code](Manuales/InstalacionVisualStudio/README.md)
 
 - [Manual de configuración para Git](Manuales/InstalacionGit/README.md)
 
