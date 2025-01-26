@@ -44,7 +44,7 @@
 
 - Ejecutar el Instalador y seguir las instrucciones.
 
-- ```Python
+ ```Python
 git --version
 
 ```
