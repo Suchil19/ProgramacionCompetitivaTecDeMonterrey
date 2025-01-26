@@ -3,7 +3,7 @@
 ¡Únete al emocionante mundo de la programación competitiva con Python! 🚀
 
 ## 👋 Presentación
-- Te damos la bienvenida a esta sesión de introducción de Python como lenguaje de programación.
+
 - La programación competitiva es una excelente manera de mejorar tus habilidades de codificación, resolver problemas desafiantes y conectarte con una comunidad vibrante de programadores de todo el mundo. Si te apasiona la programación y disfrutas enfrentarte a problemas intrigantes, ¡esto es para ti!
 
 ## 🎯 Objetivo
@@ -65,7 +65,16 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 
 ## 👨‍🏫  Sesiones
+- [Presentación](/Readme.md)
 - [Sesión 01](/Sesion-01/Readme.md)
+- [Sesión 02](/Sesion-01/Readme.md)
+- [Sesión 03](/Sesion-01/Readme.md)
+- [Sesión 04](/Sesion-01/Readme.md)
+- [Sesión 05](/Sesion-01/Readme.md)
+- [Sesión 06](/Sesion-01/Readme.md)
+- [Sesión 07](/Sesion-01/Readme.md)
+- [Sesión 08](/Sesion-01/Readme.md)
+- [Sesión 09](/Sesion-01/Readme.md)
 
 ## Instrucciones de Instalación y Configuración
 
