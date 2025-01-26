@@ -49,5 +49,3 @@ Visual Studio se distribuye bajo una licencia de software propietario de Microso
 Para cualquier pregunta o problema, puedes contactar con el soporte de Microsoft o visitar el foro de la comunidad.
 
 ---
-
-Espero que esto te sea útil. Si necesitas más detalles o tienes alguna pregunta adicional, ¡házmelo saber! 😊

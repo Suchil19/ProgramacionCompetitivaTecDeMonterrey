@@ -66,18 +66,18 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 ## 👨‍🏫  Sesiones
 - [Presentación](/README.md)
-- [Sesión 01](/Sesion-01/README.md) Introducción al Pensamiento Lógico Computacional y variables
-- [Sesión 02](/Sesion-02/README.md) Concatenación, Entradas de Datos y Tipos de Datos
-- [Sesión 03](/Sesion-03/README.md) Condicionales y Ciclos
-- [Sesión 04](/Sesion-04/README.md) Condicionales Múltiples y Anidadas
-- [Sesión 05](/Sesion-05/README.md) Ciclos y Funciones
-- [Sesión 06](/Sesion-06/README.md) Programación Orientada a Objetos
-- [Sesión 07](/Sesion-07/Readme.md) Exponenciación modular
-- [Sesión 08](/Sesion-08/Readme.md) Búsqueda Binaria
-- [Sesión 09](/Sesion-09/Readme.md) Búsqueda completa
-- [Sesión 10](/Sesion-10/Readme.md) Programación Dinámica
-- [Sesión 11](/Sesion-01/Readme.md) Backtracking
-- [Sesión 12](/Sesion-01/Readme.md) Manipulación de cadenas
+- [Sesión 01](Sesion-01/README.md) Introducción al Pensamiento Lógico Computacional y variables
+- [Sesión 02](Sesion-02/README.md) Concatenación, Entradas de Datos y Tipos de Datos
+- [Sesión 03](Sesion-03/README.md) Condicionales y Ciclos
+- [Sesión 04](Sesion-04/README.md) Condicionales Múltiples y Anidadas
+- [Sesión 05](Sesion-05/README.md) Ciclos y Funciones
+- [Sesión 06](Sesion-06/README.md) Programación Orientada a Objetos
+- [Sesión 07](Sesion-07/Readme.md) Exponenciación modular
+- [Sesión 08](Sesion-08/Readme.md) Búsqueda Binaria
+- [Sesión 09](Sesion-09/Readme.md) Búsqueda completa
+- [Sesión 10](Sesion-10/Readme.md) Programación Dinámica
+- [Sesión 11](Sesion-01/Readme.md) Backtracking
+- [Sesión 12](Sesion-01/Readme.md) Manipulación de cadenas
 
 
 ## Instrucciones de Instalación y Configuración
