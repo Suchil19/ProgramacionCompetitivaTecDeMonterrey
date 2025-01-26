@@ -1,9 +1,10 @@
-# Programación competitiva
+# 🏁🐍✨ Programación competitiva
 
-Presentación e introducción al PLC (Pensamiento Lógico Computacional)
+¡Únete al emocionante mundo de la programación competitiva con Python! 🚀
 
 ## 👋 Presentación
 - Te damos la bienvenida a esta sesión de introducción de Python como lenguaje de programación.
+- La programación competitiva es una excelente manera de mejorar tus habilidades de codificación, resolver problemas desafiantes y conectarte con una comunidad vibrante de programadores de todo el mundo. Si te apasiona la programación y disfrutas enfrentarte a problemas intrigantes, ¡esto es para ti!
 
 ## 🎯 Objetivo
 
@@ -11,9 +12,18 @@ En esta primera sesión comezarás con la **introducción** al lenguaje de progr
 
 ## Requisitos Previos
 
-* Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps (como las de hojas de cálculo, procesadores de texto o editores de fotos).
+* Tener conocimientos de informática intermedios, archivos y carpetas, además de saber usar apps  editores de texto.
 
 * Ser capaz de descargar, instalar y actualizar software.
+
+## ¿Por Qué Python?
+
+- Sintaxis Clara y Concisa: Python es conocido por su simplicidad y legibilidad, lo que te permite concentrarte en resolver problemas en lugar de preocuparte por la sintaxis.
+
+- Bibliotecas Poderosas: Accede a una amplia gama de bibliotecas que facilitan la resolución de problemas complejos, desde matemáticas avanzadas hasta manipulación de datos.
+
+- Comunidad Activa: Únete a una comunidad global de programadores que utilizan Python en competiciones como Codeforces, LeetCode, HackerRank, y muchos más.
+
 
 
 ## 📮 Requerimientos
@@ -25,103 +35,27 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
     <li> Atención </li>
 </ul>
 
-## ⏳ Precendentes
+## Beneficios
 
-* **Python** es un lenguaje de programación de alto nivel (significa que esta diseñado para ser fácil de leer y escribir ) que fue creado por **Guido van Rossum** a finales de los años 80 y principios de los 90"s. Van Rossum comenzó a trabajar en Python en diciembre de 1989 como un proyecto personal durante su tiempo en el Centro para las Matemáticas y la Computación (CWI) en los Países Bajos.
-![Guido](Sesion-01/img/guido.png)
-* El objetivo de Van Rossum era crear un lenguaje que fuera fácil de leer y aprender, inspirado en el lenguaje de programación ABC. La primera versión pública de Python, la 0.9.0, se lanzó en febrero de **1991**. Desde entonces, Python ha evolucionado significativamente, con la versión 1.0 lanzada en enero de 1994, la versión 2.0 en octubre de 2000, y la versión 3.0 en diciembre de 2008.
-![Objetivo](Sesion-01/img/01.png)
-* Python es conocido por su **sintaxis**( es un conjunto de reglas y estructuras que definen cómo se deben escribir las instrucciones en un lenguaje de programación específico ) clara y legible, lo que lo convierte en una excelente opción tanto para principiantes como para desarrolladores experimentados. Hoy en día, se utiliza en una amplia variedad de aplicaciones, desde desarrollo web hasta análisis de datos e IA.
-![Fácil](Sesion-01/img/02.png)
+- Mejora tus Habilidades: Desarrolla tus habilidades de resolución de problemas y pensamiento algorítmico.
 
+- Construye tu Portafolio: Gana reconocimiento en la comunidad y añade logros competitivos a tu portafolio.
 
-## 👩‍💻 Pilares del Pensamiento Lógico Computacional
+- Conéctate con Otros: Colabora y compite con otros entusiastas de la programación, aprendiendo de sus enfoques y soluciones.
 
 
-Proceso mental a través del cual una persona se plantea un problema 
-y para su posible solución utiliza una secuencia de instrucciones.
-## Descomposición
-* Consiste en dividir un problema complejo en partes más pequeñas y manejables. 
-Podemos ver a la descomposición como la ruptura de un problema en partes más pequeñas.
-![PLC](Sesion-01/img/descomposicion.png)
-## Reconocimiento de patrones
-* Una vez que has descompuesto el problema en partes más pequeñas, busca estándares o características comunes. Encontrar similitudes que se comparten te ayudará a resolver el sistema de manera más eficiente.
-![PLC](Sesion-01/img/reconocimiento-de-patrones.png)
-## Abstracción
-* La abstracción implica centrarse en la información importante y dejar de lado las características irrelevantes. 
-![PLC](Sesion-01/img/abstraccion.png)
-## Algoritmo
-* Plan o conjunto de instrucciones, para resolver un problema.
-“Ejemplo, menciona los pasos para preparar cereal”
-![PLC](Sesion-01/img/algoritmo.png)
-## 💻 Primer práctica Hola Mundo
+## 👩‍💻 ¿Cómo Empezar?
 
-* Primero vamos a abrir nuestro explorador chrome, si no cuentas con el <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Puedes Descargarlo aquí.</a></p>
+- Aprende los Fundamentos: Familiarízate con la sintaxis y las características de Python.
 
-* Vas a dirigirte a <a href="https://www.google.com.mx/intl/es-419/chrome/?gad_source=1&gclid=Cj0KCQjwzby1BhCQARIsAJ_0t5N9F0tV5OBlWxzP785Q2fblTO_UyMzBYiJM26qwGTDhwThDHi1Y6bUaAl8yEALw_wcB">Edublocks</a> que será nuestro editor online para hacer nuestras primeras prácticas, recuerda que este editor puede presentar fallos o bugs si se abre en un explorador diferente a chrome.</p> 
-![Fácil](Sesion-01/img/Edublocks.png)
+- Practica Problemas: Explora plataformas como LeetCode, HackerRank y Codeforces para resolver problemas de diversas categorías.
 
-* Tienes que dar click en el siguiente botón para comenzar a codificar
-![Fácil](Sesion-01/img/selectpython.png)
+- Únete a Competiciones: Participa en competiciones en línea para probar tus habilidades y mejorar continuamente.
 
-* Vas a seleccionar la opción de Only Text y create
-![Fácil](Sesion-01/img/onlytext.png) 
-
-* Verás un editor de texto como el siguiente, tendrás que escribir lo siguiente: print("Hola mundo")
-![Fácil](Sesion-01/img/editor.png) 
-
-# Conceptos Básicos
-
-A continuación haremos un repaso por los conceptos que usaremos a lo largo del curso y en todos los ejercicios que harás de ahora en adelante.
-
-## Variables
-
-Las variables en Python son fundamentales para almacenar y manipular datos vamos a ver un ejemplo.
-
-![Variable](Sesion-01/img/variable.png) 
-
-## "Correr el código"
-
-* Ejecutar un código se refiere al proceso de llevar a cabo las instrucciones escritas en un programa informático.
-
-* Cuando ejecutas un código, el sistema operativo carga el programa en la memoria y sigue las instrucciones que has escrito. Esto puede incluir cálculos, manipulación de datos, interacción con el usuario, y más.
-
-* En Python, ejecutar un código es bastante sencillo. Puedes hacerlo directamente desde la terminal o usando un entorno de desarrollo integrado (IDE) como PyCharm o Visual Studio Code3 o en un editor en linea como Edublocks.
-
-* Generalmente tenemos que presionar un boton de play para "Correr nuestro programa" com lo vemos a continuación:
-
-![Variable](Sesion-01/img/correr-programa.png) 
+- Colabora y Aprende: Únete a comunidades y foros donde puedas discutir estrategias, compartir soluciones y recibir retroalimentación
 
 
-## Print - Imprimir en pantalla
 
-La función print() en Python se utiliza para mostrar información en la pantalla. Aquí tienes algunos aspectos clave sobre su uso.
-
-![Print](Sesion-01/img/print.png) 
-
-## Comentarios
-
-En Python, los comentarios son útiles para explicar el código y hacerlo más legible. Aquí tienes las dos formas principales de agregar comentarios.
-
-* Comentarios de una sola línea: Utiliza el símbolo de numeral (#) al inicio de la línea. Este tipo de comentarios son útiles para recordar en un futuro lo que hiciste en tus códigos o simplemente tener un código mas legible.
-
-![Print](Sesion-01/img/comentario.png) 
-
-* Comentarios de múltiples líneas: Utiliza tres comillas dobles (""") al inicio y al final del bloque de texto. Esta opción es bastante útil si deseas hacer un comentario extenso de tu código.
-
-![Print](Sesion-01/img/comentario-multiple.png) 
-
-
-## Texto simple en Python
-
-Para trabajar con texto simple en Python, puedes usar cadenas de texto (strings). Si soló quieres mostrar un mensaje puedes escribirlo dentro de las comillas dobles como se muestra a continuación "Hola"
-![Texto simple](Sesion-01/img/texto-simple.png) 
-
-## Buenas prácticas
-
-Las buenas prácticas en programación son un conjunto de técnicas, principios y metodologías que los desarrolladores siguen para escribir código más legible, mantenible y eficiente. Aquí te dejo algunas de las más importantes.
-
-- [Tips y buenas prácticas en Python ](buenas-practicas/Readme.md)
 
 
 ## 📝 Organización de la clase
