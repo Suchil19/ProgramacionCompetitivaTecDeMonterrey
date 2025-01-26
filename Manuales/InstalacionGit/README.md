@@ -2,6 +2,8 @@
 
 - Git permite a los desarrolladores seguir y gestionar los cambios en el código fuente a lo largo del tiempo. Cada vez que se realizan cambios, se guarda una nueva versión del proyecto, lo que facilita la recuperación de versiones anteriores si es necesario.
 
+![Git](img/git.png)
+
 ## Instalar Git en Windows
 
 ### Descarga el Instalador de Git
