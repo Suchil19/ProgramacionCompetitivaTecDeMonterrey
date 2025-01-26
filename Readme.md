@@ -65,7 +65,7 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 
 ## 👨‍🏫  Sesiones
-- [Presentación](/README.md)
+- [Presentación](README.md)
 - [Sesión 01](Sesion-01/README.md) Introducción al Pensamiento Lógico Computacional y variables
 - [Sesión 02](Sesion-02/README.md) Concatenación, Entradas de Datos y Tipos de Datos
 - [Sesión 03](Sesion-03/README.md) Condicionales y Ciclos
