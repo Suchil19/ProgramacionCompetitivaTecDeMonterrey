@@ -35,9 +35,9 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 ## 👩‍💻 Pilares del Pensamiento Lógico Computacional
 
-
 Proceso mental a través del cual una persona se plantea un problema 
 y para su posible solución utiliza una secuencia de instrucciones.
+
 ## Descomposición
 * Consiste en dividir un problema complejo en partes más pequeñas y manejables. 
 Podemos ver a la descomposición como la ruptura de un problema en partes más pequeñas.
@@ -147,3 +147,4 @@ Las buenas prácticas en programación son un conjunto de técnicas, principios 
 - [Sesión 02](/Sesion-02/Readme.md)
 
 ## 👨‍🏫  Sesiones
+- [Sesión 02](/Sesion-02/Readme.md)

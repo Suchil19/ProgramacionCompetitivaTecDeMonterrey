@@ -65,18 +65,24 @@ A continuación se muestran los requsitos mínimos para poder realizar las prác
 
 
 ## 👨‍🏫  Sesiones
-- [Presentación](/Readme.md)
-- [Sesión 01](/Sesion-01/Readme.md) Introducción al Pensamiento Lógico Computacional
-- [Sesión 02](/Sesion-01/Readme.md) Concatenación, Variables y Tipos de Datos
-- [Sesión 03](/Sesion-01/Readme.md) Condicionales y Ciclos
-- [Sesión 04](/Sesion-01/Readme.md) Condicionales Múltiples
-- [Sesión 05](/Sesion-01/Readme.md) Ciclos y Funcionales
-- [Sesión 06](/Sesion-01/Readme.md)
-- [Sesión 07](/Sesion-01/Readme.md)
-- [Sesión 08](/Sesion-01/Readme.md)
-- [Sesión 09](/Sesion-01/Readme.md)
+- [Presentación](/README.md)
+- [Sesión 01](/Sesion-01/README.md) Introducción al Pensamiento Lógico Computacional y variables
+- [Sesión 02](/Sesion-02/README.md) Concatenación, Entradas de Datos y Tipos de Datos
+- [Sesión 03](/Sesion-03/Readme.md) Condicionales y Ciclos
+- [Sesión 04](/Sesion-04/Readme.md) Condicionales Múltiples y Anidadas
+- [Sesión 05](/Sesion-05/Readme.md) Ciclos y Funciones
+- [Sesión 06](/Sesion-06/Readme.md) Programación Orientada a Objetos
+- [Sesión 07](/Sesion-07/Readme.md) Exponenciación modular
+- [Sesión 08](/Sesion-08/Readme.md) Búsqueda Binaria
+- [Sesión 09](/Sesion-09/Readme.md) Búsqueda completa
+- [Sesión 10](/Sesion-10/Readme.md) Programación Dinámica
+- [Sesión 11](/Sesion-01/Readme.md) Backtracking
+- [Sesión 12](/Sesion-01/Readme.md) Manipulación de cadenas
+
 
 ## Instrucciones de Instalación y Configuración
 
 - [Manual de configuración Visual Studio Code](practica/README.md)
+
+- [Manual de configuración para Git](Manuales/InstalacionGit/README.md)
 
